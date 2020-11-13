@@ -1,0 +1,1 @@
+Fri Nov 13 13:47:40 2020 unkown main[2949]: The kmlfile is:concap.csv and logfile is:mylogfile.txt
